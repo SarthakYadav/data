@@ -15,4 +15,4 @@ __all__ = ["DataChunk", "functional_datapipe", "iter", "map", "utils"]
 
 from torchdata import deprecation_warning
 
-deprecation_warning()
+# deprecation_warning()
