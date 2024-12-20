@@ -36,6 +36,6 @@ __all__ = [
 assert __all__ == sorted(__all__)
 
 
-from torchdata import deprecation_warning
+# from torchdata import deprecation_warning
 
-deprecation_warning()
+# deprecation_warning()

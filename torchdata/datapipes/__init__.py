@@ -13,6 +13,6 @@ from . import iter, map, utils
 __all__ = ["DataChunk", "functional_datapipe", "iter", "map", "utils"]
 
 
-from torchdata import deprecation_warning
+# from torchdata import deprecation_warning
 
 # deprecation_warning()
